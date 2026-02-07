@@ -118,7 +118,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 2rem;
     text-align: center;
-    color: #667eea;
+    color: #ff69b4;
 }
 
 .about > .container > p {
@@ -149,7 +149,7 @@ body {
 .feature-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-    border-color: #667eea;
+    border-color: #ff69b4;
 }
 
 .feature-icon {
@@ -160,7 +160,7 @@ body {
 .feature-card h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    color: #667eea;
+    color: #ff69b4;
 }
 
 .feature-card p {
@@ -177,7 +177,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 3rem;
     text-align: center;
-    color: #667eea;
+    color: #ff69b4;
 }
 
 .blog-grid {
@@ -210,7 +210,7 @@ body {
 }
 
 .blog-date {
-    color: #667eea;
+    color: #ff69b4;
     font-size: 0.9rem;
     font-weight: bold;
 }
@@ -228,14 +228,14 @@ body {
 }
 
 .read-more {
-    color: #667eea;
+    color: #ff69b4;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 .read-more:hover {
-    color: #764ba2;
+    color: #ff1493;
 }
 
 /* Contact Section */
@@ -248,7 +248,7 @@ body {
     font-size: 2.5rem;
     margin-bottom: 3rem;
     text-align: center;
-    color: #667eea;
+    color: #ff69b4;
 }
 
 .contact-form {
@@ -281,13 +281,13 @@ body {
 .form-group input:focus,
 .form-group textarea:focus {
     outline: none;
-    border-color: #667eea;
+    border-color: #ff69b4;
 }
 
 .submit-button {
     width: 100%;
     padding: 12px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ff69b4 0%, #ff1493 100%);
     color: white;
     border: none;
     border-radius: 5px;
@@ -311,13 +311,13 @@ body {
 }
 
 .footer a {
-    color: #667eea;
+    color: #ff69b4;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 .footer a:hover {
-    color: #ffd700;
+    color: #ff1493;
 }
 
 .social-links {

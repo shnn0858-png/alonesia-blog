@@ -1,2 +1,0 @@
-# alonesia-blog
-pecinta anya
